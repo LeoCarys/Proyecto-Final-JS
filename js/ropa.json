@@ -2,7 +2,7 @@
     {
         "id": "accesorio-01",
        "titulo": "Accesorio 01",
-        "imagen": "/img/Accesorio-01.png",
+        "imagen": "./img/Accesorio-01.png",
         "categoria": {
             "nombre": "Accesorios",
             "id": "accesorios"
@@ -12,7 +12,7 @@
     {
         "id": "accesorio-02",
        "titulo": "Accesorio 02",
-        "imagen": "/img/Accesorio-02.png",
+        "imagen": "./img/Accesorio-02.png",
         "categoria": {
             "nombre": "Accesorios",
             "id": "accesorios"
@@ -22,7 +22,7 @@
     {
         "id": "accesorio-03",
        "titulo": "Accesorio 03",
-        "imagen": "/img/Accesorio-03.png",
+        "imagen": "./img/Accesorio-03.png",
         "categoria": {
             "nombre": "Accesorios",
             "id": "accesorios"
@@ -32,7 +32,7 @@
     {
         "id": "accesorio-04",
        "titulo": "Accesorio 04",
-        "imagen": "/img/Accesorio-04.png",
+        "imagen": "./img/Accesorio-04.png",
         "categoria": {
             "nombre": "Accesorios",
             "id": "accesorios"
@@ -42,7 +42,7 @@
     {
         "id": "accesorio-05",
        "titulo": "Accesorio 05",
-        "imagen": "/img/Accesorio-05.png",
+        "imagen": "./img/Accesorio-05.png",
         "categoria": {
             "nombre": "Accesorios",
             "id": "accesorios"
@@ -53,7 +53,7 @@
     {
         "id": "camiseta-01",
        "titulo": "Camiseta 01",
-        "imagen": "/img/Camiseta-01.png",
+        "imagen": "./img/Camiseta-01.png",
         "categoria": {
             "nombre": "Camiseta",
             "id": "camisetas"
@@ -63,7 +63,7 @@
     {
         "id": "camiseta-02",
        "titulo": "Camiseta 02",
-        "imagen": "/img/Camiseta-02.png",
+        "imagen": "./img/Camiseta-02.png",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -73,7 +73,7 @@
     {
         "id": "camiseta-03",
        "titulo": "Camiseta 03",
-        "imagen": "/img/Camiseta-03.png",
+        "imagen": "./img/Camiseta-03.png",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -83,7 +83,7 @@
     {
         "id": "camiseta-04",
        "titulo": "Camiseta 04",
-        "imagen": "/img/Camiseta-04.png",
+        "imagen": "./img/Camiseta-04.png",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -93,7 +93,7 @@
     {
         "id": "camiseta-05",
        "titulo": "Camiseta 05",
-        "imagen": "/img/Camiseta-05.png",
+        "imagen": "./img/Camiseta-05.png",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -103,7 +103,7 @@
     {
         "id": "camiseta-06",
        "titulo": "Camiseta 06",
-        "imagen": "/img/Camiseta-06.png",
+        "imagen": "./img/Camiseta-06.png",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -113,7 +113,7 @@
     {
         "id": "camiseta-07",
        "titulo": "Camiseta 07",
-        "imagen": "/img/Camiseta-07.png",
+        "imagen": "./img/Camiseta-07.png",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -123,7 +123,7 @@
     {
         "id": "camiseta-08",
        "titulo": "Camiseta 08",
-        "imagen": "/img/Camiseta-08.png",
+        "imagen": "./img/Camiseta-08.png",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -133,7 +133,7 @@
     {
         "id": "camiseta-09",
        "titulo": "Camiseta 09",
-        "imagen": "/img/Camiseta-09.png",
+        "imagen": "./img/Camiseta-09.png",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -143,7 +143,7 @@
     {
         "id": "camiseta-10",
        "titulo": "Camiseta 10",
-        "imagen": "/img/Camiseta-10.png",
+        "imagen": "./img/Camiseta-10.png",
         "categoria": {
             "nombre": "Camisetas",
             "id": "camisetas"
@@ -154,7 +154,7 @@
     {
         "id": "sudadera-01",
        "titulo": "Sudadera 01",
-        "imagen": "/img/Sudadera-01.png",
+        "imagen": "./img/Sudadera-01.png",
         "categoria": {
             "nombre": "Sudaderas",
             "id": "sudaderas"
@@ -164,7 +164,7 @@
     {
         "id": "sudadera-02",
        "titulo": "Sudadera 02",
-        "imagen": "/img/Sudadera-02.png",
+        "imagen": "./img/Sudadera-02.png",
         "categoria": {
             "nombre": "Sudaderas",
             "id": "sudaderas"
@@ -174,7 +174,7 @@
     {
         "id": "sudadera-03",
        "titulo": "Sudadera 03",
-        "imagen": "/img/Sudadera-03.png",
+        "imagen": "./img/Sudadera-03.png",
         "categoria": {
             "nombre": "Sudaderas",
             "id": "sudaderas"
@@ -184,7 +184,7 @@
     {
         "id": "sudadera-04",
        "titulo": "Sudadera 04",
-        "imagen": "/img/Sudadera-04.png",
+        "imagen": "./img/Sudadera-04.png",
         "categoria": {
             "nombre": "Sudaderas",
             "id": "sudaderas"
@@ -194,7 +194,7 @@
      {
         "id": "sudadera-05",
        "titulo": "Sudadera 05",
-        "imagen": "/img/Sudadera-05.png",
+        "imagen": "./img/Sudadera-05.png",
         "categoria": {
             "nombre": "Sudaderas",
             "id": "sudaderas"
@@ -204,7 +204,7 @@
      {
         "id": "sudadera-06",
        "titulo": "Sudadera 06",
-        "imagen": "/img/Sudadera-06.png",
+        "imagen": "./img/Sudadera-06.png",
         "categoria": {
             "nombre": "Sudaderas",
             "id": "sudaderas"
